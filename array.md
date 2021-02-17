@@ -50,3 +50,21 @@ const values = Object.values(days);
 const birds = ["duck", "owl"];
 const moreBirds = [].concat(birds, "eagle", ["parrot"]);
 ```
+
+### Useful array methods
+
+1. concat - merge arrays
+
+2. includes - look for value
+
+3. indexOf - find index of a particular value
+
+4. join - make a string out of an array
+
+5. reverse
+
+6. slice - copy portion of an array
+
+7. splice - remove and replace elements
+
+8. sort
