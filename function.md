@@ -54,3 +54,13 @@ function greet(type, greetFormal, greetCasual) {
 // prints 'What's up?'
 greet('casual', formalGreeting, casualGreeting);
 ```
+
+**Example 2:**
+
+A practical example involve the array method "map", we pass in an arrow function to "map" like:
+
+```javascript
+const arr1 = [1, 2, 3];
+const arr2 = arr1.map(item => item * 2);
+console.log(arr2);
+```
