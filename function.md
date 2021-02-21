@@ -64,3 +64,15 @@ const arr1 = [1, 2, 3];
 const arr2 = arr1.map(item => item * 2);
 console.log(arr2);
 ```
+
+#### Revision of a few array method invloves a callback function
+
+1. **find**
+
+2. **some** and **every**
+
+3. **filter**
+
+4. **reduce**
+
+5. **sort**
